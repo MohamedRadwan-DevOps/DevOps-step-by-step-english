@@ -1,8 +1,5 @@
 # DevOps step-by-step English
 
-
-
-
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-english/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
 
@@ -22,8 +19,8 @@
   <a href="https://mohamedradwan.com/">
   <img width="35px" src="https://i.ibb.co/R9P4NqZ/pngegg.png" />
   </a>&ensp;
-   <a href="https://mvp.microsoft.com/en-us/PublicProfile/4039889?fullName=Mohamed%20Radwan" title=" Microsoft Most Valuable Professional">
-  <img width="35px" src="https://i.ibb.co/rG8kjKR/download.png" />
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/4039889?fullName=Mohamed%20Radwan" title=" Microsoft Most Valuable Professional">
+      <img width="35px" src="https://i.ibb.co/rG8kjKR/download.png" />
   </a>
 
 
