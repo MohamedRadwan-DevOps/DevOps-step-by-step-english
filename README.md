@@ -27,6 +27,6 @@
 
 
 ## Thanks to all our contributors ❤️
-<a href = "https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/graphs/contributors">
+<a href = "https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-english/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=MohamedRadwan-DevOps/DevOps-step-by-step-english"/>
 </a>
