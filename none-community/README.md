@@ -2,6 +2,8 @@
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-english/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-english/blob/main/none-community/course-demos-labs.md" title="Course Demos/Labs" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧪 Course Demos/Labs </a>
+
 
 ## Connect with me
   <a href="https://twitter.com/mradwan06">
